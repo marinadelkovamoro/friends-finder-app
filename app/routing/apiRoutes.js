@@ -1,5 +1,5 @@
 
-const friendsData = require("../data/friends");
+const friendsData = require("../data/friends.js");
 
 
 module.exports = (app) => {
